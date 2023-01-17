@@ -4,15 +4,6 @@
  <h3 align="left"> TECHNOLOGIES & TOOLS USED IN THE PROJECT 🔮🤖☀️👨‍💻🤍🦾🚀:</h3>
  <ol>
  <li>
- HTML
- </li>
- <li>
- CSS
- </li>
- <li>
- Javascript
- </li>
- <li>
  NEXT JS 13
  </li>
  <li>
@@ -26,6 +17,15 @@
  </li>
  <li>
  REACT DOM
+ </li>
+ <li>
+ CSS
+ </li>
+ <li>
+ Javascript
+ </li>
+ <li>
+ HTML
  </li>
  <li>
  FIGMA (for designing)
