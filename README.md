@@ -25,6 +25,9 @@
  FRAMER MOTION
  </li>
  <li>
+ REACT DOM
+ </li>
+ <li>
  FIGMA (for designing)
  </li>
  </ol>
