@@ -21,6 +21,12 @@
  <li>
  TAILWIND CSS
  </li>
+ <li>
+ FRAMER MOTION
+ </li>
+ <li>
+ FIGMA (for designing)
+ </li>
  </ol>
 <h4 align="center">---------------------------------> Video Demo of The project <----------------------------------------</h4>
 
