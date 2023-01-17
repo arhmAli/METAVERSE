@@ -4,9 +4,15 @@
  <h3 align="left"> TECHNOLOGIES & TOOLS USED IN THE PROJECT 🔮🤖☀️👨‍💻🤍🦾🚀:</h3>
  <ol>
  <li>
- Hey
+ HTML
+ </li>
+ <li>
+ CSS
+ </li>
+ <li>
+ Javascript
  </li>
  </ol>
-<h3 align="center">---------------------------------> Video Demo of The project <----------------------------------------</h3>
+<h4 align="center">---------------------------------> Video Demo of The project <----------------------------------------</h4>
 
 [screen-capture.webm](https://user-images.githubusercontent.com/110810048/212022564-b6159f88-c69c-4ed9-831d-4821d2dae77a.webm)
