@@ -12,6 +12,15 @@
  <li>
  Javascript
  </li>
+ <li>
+ NEXT JS 13
+ </li>
+ <li>
+ REACT 18
+ </li>
+ <li>
+ TAILWIND CSS
+ </li>
  </ol>
 <h4 align="center">---------------------------------> Video Demo of The project <----------------------------------------</h4>
 
